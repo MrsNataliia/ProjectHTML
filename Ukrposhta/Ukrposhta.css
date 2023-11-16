@@ -181,7 +181,6 @@ header p{
     font-size: 20px;
     font-weight: 700;
     line-height: 80px;
-    margin-left: 1.04vw;
 }
 .finance{
     height: 125.71vh;
@@ -280,6 +279,7 @@ header p{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-left: 1.04vw;
 }
 .city{
     width: 34.2vw;
